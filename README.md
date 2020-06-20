@@ -1,1 +1,3 @@
 # Running-Activity-Log
+This is a desktop app written in java used to track running related activities including workouts, tempo runs, long runs, and 
+more. There is a file called "mainrepository.txt" which is the database that the program uses to read all the information about every single activity. Java was used because of the swing API used to make the UI. To add a new activity click the add activity button and choose to enter either a workout or run. click save at the bottom to save it to the database. The center of the screen is where all the activities can be seen. Click on one to see all of the info. they can also be modified or deleted. There is also a filter option by month and year.
